@@ -1,6 +1,6 @@
 # and101-project1-starter
 AND101 Project 1
 
+![image](https://github.com/CarlosGuzman01/and101-project1/assets/120758068/add2bf7b-8a3b-4a29-8b8e-728d22865b0f)
 
-<img src="https://github.com/CarlosGuzman01/and101-project1-starter/assets/120758068/8285ff08-ca98-470f-bbc4-ef852db02c11" alt="image" width="350" height="700">
 
